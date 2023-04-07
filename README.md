@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAmggg
+- 👋 Hi, I’m @SamG
 - 👀 I’m interested in ...learing how to code
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...creating dApps
